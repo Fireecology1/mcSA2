@@ -1,4 +1,4 @@
-#mcSA2 - Version-controlled (git/Github) mcSA project for ConPyro System
+## mcSA2 - Version-controlled (git/Github) mcSA project for ConPyro System
 
 Stand-adjusted (Wotton-Beverly 2007) moisture content model, for adjusting the FFMC estimate 
 of fine fuel moisture content using stand, density, season, and DMC variables. 
