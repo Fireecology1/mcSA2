@@ -16,7 +16,7 @@
 #Above FFMC 96.1, light stands recoded to moderate
 #
 #D.Perrakis, December 2021; daniel.perrakis@nrcan-rncan.gc.ca
-#test
+#test2
 #Set up libraries & environment
 library(dplyr)
 
