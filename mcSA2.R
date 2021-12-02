@@ -14,9 +14,10 @@
 #behaviour with the pure statistical models: 
 #Above FFMC 92.9, dense stands recoded to moderate
 #Above FFMC 96.1, light stands recoded to moderate
+#Above FFMC 95.15, spring or sp/sum transition seasons recoded to summer
 #
 #D.Perrakis, December 2021; daniel.perrakis@nrcan-rncan.gc.ca
-#test2
+#
 #Set up libraries & environment
 library(dplyr)
 
